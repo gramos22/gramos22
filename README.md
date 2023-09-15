@@ -1,8 +1,7 @@
-#🙂
+<h1 style="width: max-content; text-align: center">🙂<h1>
+Welcome to my github page! I hope my ideas make you think...
 
-##Welcome to my github page. I hope you like my ideas!
-
-###Skills and technologies that I have experience with:
+## Technologies I like to use:
 
 <div style="display: inline-block">
     <img style="display: inline-block" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -14,6 +13,10 @@
     <img style="display: inline-block;" alt="vuetify" src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white"/>
     <img style="display: inline-block;" alt="axios" src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white"/>
     <img style="display: inline-block;" alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
-    
-    
+</div>
+
+## technologies I am currently studying:
+
+<div style="display: inline-block">
+    <img style="display: inline-block" alt="c" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 </div>
