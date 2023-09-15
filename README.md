@@ -15,7 +15,7 @@ Welcome to my github page! I hope my ideas make you think...
     <img style="display: inline-block;" alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </div>
 
-## technologies I am currently studying:
+## Technologies I am currently studying:
 
 <div style="display: inline-block">
     <img style="display: inline-block" alt="c" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
