@@ -1,5 +1,5 @@
 <h1 style="width: max-content; text-align: center">🙂<h1>
-Welcome to my github page! I hope my ideas make you think...
+Welcome to my GitHub page! I hope you like my ideas, they always are based in how I can help other people´s life with codes.
 
 ## Technologies I like to use:
 
